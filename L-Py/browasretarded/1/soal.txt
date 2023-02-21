@@ -1,0 +1,70 @@
+print ("hello")
+#
+berpaa
+a. ss
+b. ddd
+c. xx
+d. ff
+e. rr
+*
+##
+
+#
+jshshge
+a. shshs
+b. shshs
+c. de
+d. d
+e. de
+*
+##
+
+#
+ha
+a. a
+b. a
+c. a
+d. a
+e. a
+*
+##
+
+#
+Saty
+a. A
+b. B
+c. C
+d. D
+e. E
+*
+##
+
+#
+1
+a. 1
+b. 1
+c. 1
+d. 1
+e. 1
+*
+##
+
+#
+hh
+a. 
+b. 
+c. 
+d. 
+e. 
+*
+##
+
+#
+uhh
+a. s
+b. s
+c. 
+d. s
+e. sw
+*
+##
